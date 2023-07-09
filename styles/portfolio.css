@@ -91,6 +91,7 @@ banner-title{
     max-width: 500px;
 }
 /* Main Section Style */
+
 /* About Section Style */
 
 .about{
@@ -99,4 +100,11 @@ banner-title{
     background: #FFF8F3;
     margin: 130px 0px;
 
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
